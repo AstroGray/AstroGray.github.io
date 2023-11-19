@@ -4,8 +4,7 @@ title: Grayson Hammon
 ---
 
 ## About
-LightSpeed is a lightweight Jekyll theme designed to be privacy-friendly (~~no~~ _very little_ JavaScript), fast, and
-excellent at delivering content.
+Test
 
 ## About, Further
 This second section demonstrates spacing. CSS is kept to a minimum with minor styling
