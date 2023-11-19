@@ -1,4 +1,4 @@
-# LightSpeed
+# Grayson Hammon
 
 ## About
 
